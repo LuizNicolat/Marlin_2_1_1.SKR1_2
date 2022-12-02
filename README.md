@@ -1,4 +1,4 @@
-<p align="center"><img src="[buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png](https://cdn.shopify.com/s/files/1/0550/2209/2502/files/1_c2e6ea86-eb93-4585-97f0-98760b89228b_200x.png?v=1650337638)" height="250" alt="Bigtreetech's logo" /></p>
+<p align="center"><img src="bttlogo.jpg" height="250" alt="Bigtreetech's logo" /></p>
 
 <h1 align="center">Marlin 2.1.1 3D Printer Firmware for SKR Mini E3 V1.2</h1>
 
