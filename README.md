@@ -10,10 +10,10 @@ Marlin 2.1.1 already configured to the SKR MINI E3 V1.2 board. Ready to compile.
 
 ## Enabled Configs
 
-Mesh Bed Leveling
-Manual Bed Tramming
-Already Setted Up the KiP for bed and hotend
-Prepared for Dual Gear Extruder
+#Mesh Bed Leveling
+#Manual Bed Tramming
+#Already Setted Up the KiP for bed and hotend
+#Prepared for Dual Gear Extruder
 
 ## Thanks to
 
